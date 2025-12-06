@@ -99,42 +99,6 @@ This project evaluates six machine learning algorithms on the MNIST handwritten 
 
 ---
 
-## Repository Structure
-
-├── Final_Report.pdf          # Complete project report
-├── README.md
-├── Training jobs output/
-│   ├── 1. Multiclass Logistic Regression/
-│   │   ├── Screenshots/
-│   │   ├── output_data.csv
-│   │   ├── Job_evaluate_model_OutputsAndLogs.zip
-│   ├── 2. MultiClass Boosted Decision Tree/
-│   │   ├── Screenshots/
-│   │   ├── output_data.csv
-│   │   ├── Job_evaluate_model_OutputsAndLogs.zip
-│   └── 3. Two-Class Support Vector Machine +One-vs-All Multiclass/
-│   │   ├── Screenshots/
-│   │   ├── output_data.csv
-│   │   ├── Job_evaluate_model_OutputsAndLogs.zip
-│   ├── 4. Multiclass Neural Network
-│   │   ├── Screenshots/
-│   │   ├── output_data.csv
-│   │   ├── Job_evaluate_model_OutputsAndLogs.zip
-│   ├── 5. Multiclass Decision Forest
-│   │   ├── Screenshots/
-│   │   ├── output_data.csv
-│   │   ├── Job_evaluate_model_OutputsAndLogs.zip
-│   └── 6. Averaged Perceptron
-│   │   ├── Screenshots/
-│   │   ├── output_data.csv
-│   │   ├── Job_evaluate_model_OutputsAndLogs.zip
-│   └── Cancelled -MultiClass Boosted Decision Tree
-│   │   ├── Screenshots/
-│   │   ├── output_data.csv
-│   │   ├── Job_evaluate_model_OutputsAndLogs.zip
-└── convert_csv_notebook.ipynb
-
----
 
 ## Technologies Used
 
