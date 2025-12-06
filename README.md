@@ -16,7 +16,6 @@ This project evaluates six machine learning algorithms on the MNIST handwritten 
 
 **Watch our 15-minute project presentation:**  
 [Group Resentation](https://youtu.be/1smlgZVL-l8)
-*Note: The video covers project overview, methodology, results, and future work recommendations.*
 
 ---
 
