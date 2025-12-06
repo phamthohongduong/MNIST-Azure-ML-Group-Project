@@ -150,10 +150,10 @@ This project evaluates six machine learning algorithms on the MNIST handwritten 
 
 ## Team Members
 
-- [Tigor Tenorio De Melo] - [Role/Contribution]
-- [Daria Khareva] - [Role/Contribution]
-- [Bonnie Huo] - [Role/Contribution]
-- [Tho Hong Duong Pham] - [Role/Contribution]
+- [Tigor Tenorio De Melo]
+- [Daria Khareva]
+- [Bonnie Huo]
+- [Tho Hong Duong Pham]
 
 **Course:** Intro to Machine Learning - AIGC-5102-0TA  
 **Institution:** [Humber Polytechnic]  
