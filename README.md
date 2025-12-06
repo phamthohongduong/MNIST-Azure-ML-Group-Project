@@ -104,7 +104,6 @@ This project evaluates six machine learning algorithms on the MNIST handwritten 
 ├── Final_Report.pdf          # Complete project report
 ├── README.md
 ├── Training jobs output/
-│   ├── Training jobs.docx
 │   ├── 1. Multiclass Logistic Regression/
 │   │   ├── Screenshots/
 │   │   ├── output_data.csv
@@ -134,8 +133,6 @@ This project evaluates six machine learning algorithms on the MNIST handwritten 
 │   │   ├── output_data.csv
 │   │   ├── Job_evaluate_model_OutputsAndLogs.zip
 └── convert_csv_notebook.ipynb
-└── Training Log.docx
-
 
 ---
 
